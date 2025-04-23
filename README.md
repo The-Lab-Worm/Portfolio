@@ -9,7 +9,7 @@ Class of 2028
 # Certifications
 
 # Projects
-**Web Scraping Repository** : 
+**Web Scraping Repository** : <a href= 'https://github.com/The-Lab-Worm/Web_Scraping'> Web Scraping Projects </a>
 
 <table>  
   <tr>  
