@@ -7,12 +7,11 @@ Class of 2028
 # Projects
 
 <table>  
-<tr>  
-<td> Project Images </td> <td> Project Info </td>
-</tr>
+  <tr>  
+    <td> Project Images </td> <td> Project Info </td>
+  </tr>
 
   <tr>  
-<td> Project Images </td> <td> Project Info </td>
-</tr>
-
+    <td> Project Images </td> <td> Project Info </td>
+  </tr>
 </table>
