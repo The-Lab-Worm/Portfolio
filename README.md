@@ -4,6 +4,10 @@
 
 Class of 2028
 
+# Education 
+
+# Certifications
+
 # Projects
 
 <table>  
