@@ -13,10 +13,12 @@ Class of 2028
 
 <table>  
   <tr>  
-    <td> Project Images </td> <td> Project Info </td>
+    <td> <img scr= 'sample.png' alt= Web Scraping> </td> 
+    <td> MathJobs data web scraping practice </td>
   </tr>
 
   <tr>  
-    <td> Project Images </td> <td> Project Info </td>
+    <td> <img scr= ''> </td> 
+    <td> Project Info </td>
   </tr>
 </table>
