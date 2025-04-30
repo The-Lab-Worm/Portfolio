@@ -19,6 +19,6 @@ Class of 2028
 
   <tr>  
     <td> <img scr= ''> </td> 
-    <td> Project Info </td>
+    <td> <a href='https://github.com/The-Lab-Worm/911-Call-Analysis/blob/main/Ryver_Christian_Data_2365_Final_Project.ipynb'> 911 Call Analysis Project </td>
   </tr>
 </table>
